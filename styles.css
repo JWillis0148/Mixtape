@@ -1,0 +1,111 @@
+<style media="screen">
+
+.links{
+  text-align: center;
+}
+
+.wrapper{
+  width:500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-color:#387e8c;
+}
+
+.center{
+  width:500px;
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+}
+
+.stacys-mom{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.the-middle{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+.ocean-avenue{
+  width:150px;
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+}
+
+.atst{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.buddy-holly{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.butterflies{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.eighteen{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.american-idiot{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.hard-times{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.voldemort{
+  width:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+body{
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  color:#fa7878;
+  background-color:#22889c;
+}
+
+a{
+  color:#fa7878;
+  text-decoration: none;
+}
+a:hover{
+  color: #85cbd9;
+  text-decoration: underline;
+}
+
+#top{
+  text-align:center;
+}
+</style>
