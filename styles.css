@@ -2,12 +2,19 @@ html{
   scroll-behavior: smooth;
 }
 
-.links{
-  text-align: center;
+.list{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
 }
 
+
 .wrapper{
-  width:500px;
+  width:650px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -21,7 +28,7 @@ html{
   display: block;
 }
 
-.stacys-mom{
+.stacysmom{
   width:150px;
   margin-left: auto;
   margin-right: auto;
@@ -84,7 +91,7 @@ html{
   display: block;
 }
 
-.voldemort{
+.volde-mort{
   width:150px;
   margin-left: auto;
   margin-right: auto;
@@ -99,6 +106,7 @@ body{
   background-color:#22889c;
 }
 
+
 a{
   color:#e4e895;
   text-decoration: none;
@@ -110,4 +118,105 @@ a:hover{
 
 #top{
   text-align:center;
+}
+
+.eightteen{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.voldemort{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+
+}
+
+.hardtimes{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.idiot{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.black-butterflies{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.buddy{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.small-things{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.middle{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.ocean{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
+}
+
+.stacys-mom{
+  width: 500px;
+  border: 5px solid #6e9299;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 25px;
+  background:#6e9299;
 }
